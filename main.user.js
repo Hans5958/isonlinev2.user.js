@@ -3,7 +3,7 @@
 // @namespace    isOnline v2 - Ported by Hans5958
 // @version      2.0
 // @description  Know who is online on Scratch! Ported for Tampermonkey/Greasemonkey use. Ported by Hans5958.
-// @author       @World_Languages and @chopper123
+// @author       @World_Languages and @chopper100
 // @include      http*://scratch.mit.edu/*
 // @grant        none
 // @icon         https://raw.githubusercontent.com/Hans5958/isonlinev2.user.js/master/icon.png
