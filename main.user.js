@@ -6,6 +6,7 @@
 // @author       @World_Languages and @chopper123
 // @include      http*://scratch.mit.edu/*
 // @grant        none
+// @icon         https://raw.githubusercontent.com/Hans5958/isonlinev2.user.js/master/icon.png
 // ==/UserScript==
 
 iOlog("isOnline started");
